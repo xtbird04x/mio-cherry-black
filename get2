@@ -1,0 +1,3 @@
+name,mgmt_address,device_model,software_version,key_exp_date,key information,key
+gdkg1,20.20.20.20,GD Taclane KG,r4.3v1,3/30/24 20:00,xxx,0
+gdkg2,30.30.30.30,GD Taclane KG,r4.3v1,3/30/24 20:00,yyy,1
