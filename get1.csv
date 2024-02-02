@@ -1,0 +1,2 @@
+ecu_id,name,mgmt_address,version,device_model,device_type,key_information,,,,,
+1.00006E+11,viasat1,10.10.10.10,1.2,kg-142,EDE,key0,xxx,2024-04-02T00:00:00z,key1,yyy,no experation date
